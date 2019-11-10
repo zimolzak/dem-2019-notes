@@ -386,23 +386,126 @@ Biosemantics.
 Introduction to Diagnostic Error (Nov 10, 1pm)
 =========
 
-Mark Graber
+Intro to DE and SIDM. Mark Graber MD neph
 --------
 
+2008 DEM conf. 2011 SIDM. 2014 Diagnosis journal. 2015 IOM report.
+2016 Coalition to improve diagnosis in medicine. SIDM helped get a
+bill get passed to give money to AHRQ $2 million. Another bill drafted
+$8m for dx error research. ImproveDx newsletter. "Top 10 Patient
+Safety Concerns for Healthcare Organizations 2018," ECRI institute. Dx
+error is #1. Rory Staunton, scraped knee, dx with viral
+gastroenteritis, returned and dx with Strep sepsis.
+
+Definition: *Failure to establish accurate timely explanation of
+patient's health problem(s) or communicate that explanation to the
+patient.*
+
+But what is timely, and what is accurate? Sooner or later we'll have
+guidelines like Sepsis should be diagnosed within *x* hours. "My
+definition is totally useless to study diagnosis in real time" because
+you need to wait and find out the right diagnosis using gold standard.
+
+Incidence. Autopsy studies: 10 - 30% there is something that was
+completely missed, and which is relevant to the cause of death. But
+autopsy studies have some limits.
+
+. . .
+
+320 cognitive errors. Faulty data gathering 14%. Remainder are
+synthesis failure. Context failures (not on graph but common). Or
+another failure: premature closure or essentially not having a
+differential. Opposite of optimizing. Herbert A. Simon, economist and
+cognitive psychologist: satisficing[^simon]. Quit as soon as you find
+a thing that meets some threshold, rather than going farther and
+finding optimal.
+
+[^simon]: Simon, Herbert A. (1956). "Rational Choice and the Structure
+of the Environment." Psychological Review. 63 (2): 129-138.
 
 
 
 
-
-Pat Croskerry
+Cognitive Failure & Clin Decision Making. Pat Croskerry MD PhD (psycholo)
 --------
 
+BMJ ~2017, 600k heart disease, 580k cancer, 250k medical error deaths.
+41k suicide 30k firearms. Newman-Toker says diagnostic failure is the
+biggest problem in patient safety. 40k-80k preventable hospital deaths
+due to error[^leape]. Visual specialties not so big as IM, FM, ER.
+
+Six clusters in dx failure: physician (intellect, knowledge, gender,
+experience, age), cognitive (personality, openmindedness, persevering,
+*rationality*, logicality, mindfulness, lateral thinking), decision
+maker homeostasis (sleep, affective state, cognitive load),
+environment (system design, ergonomics, team factors), disease itself
+(symptoms, signs, onset, pathognomonicity, mimics), patient (family,
+friends).
+
+Of 347 legal actions from Canadian med practice assoc, >200 were
+caused by diagnosis. Is it the system or the person? Mostly
+person[^reducing]. Students are interested in knowing stuff; harder to
+sell them on learning how they think. Knowledge deficits are uncommon
+in dx failure; more often it's a thinking deficit.
+
+Some people don't believe that biases are "a thing," but are rather an
+artifact of the psychology laboratory. "Evolution wouldn't have
+selected for irrationality." But evolution might select for
+satisficing with respect to finding shelter, finding a mate, etc.
+
+"Cognitive Bias Codex, 2016." Lots of them, but you probably only have
+to know the top 10 or so.
+
+
+n  bias
+-- ------------------
+17 anchoring
+16 dx momentum
+14 confirmation
+13 unpacking failure
+   search satisficing
+   framing
+   ascertainment
+   psych out error
+
+Where in the process does each occur. Anchoring and framing start
+early. Etc. Cognitive and affective biases were the top source of
+failure. Knowledge deficits were there but quite low.
+
+Improve rationality[^stano]. Rationality quotient. Defined as absence
+of bias? Have to collect enough info, seek various POVs, seek nuance,
+etc. Dual process theory: if you recognize what's going on (pattern
+processor), go into intuition process, otherwise go to analytical. We
+even know where in brain they're located. System 1 is prefrontal
+ventromedia, inferior temporal. Sys 2 is prefrontal and posterior
+occiptical. Think of looking at zoster on the trunk and knowing
+immediately. There are strategies for debiasing. Recongize the bias
+and undo it. People are pessimistic that you can do this but it does
+seem to work. Need a number of different strategies too. Does require
+effort and habit. Forcing functions, encourage metacognition, try
+thinking the opposite. No longer an option to ignore the thinking
+process[^ethic]. Good environments make for good decision making.
+
+Further learning: TACT program online at Dalhousie. https://medicine.dal.ca/departments/core-units/cpd/faculty-development/programs/TACT.html
+
+Q: "What really matters is experience, take care of a lot of gout,
+recognize it better." Versus debiasing strategies. A: Panglossians
+versus meliorists. Humans must be doing it right, vs. we can make it
+better. Sez it's not equipoise.
+
+[^ethic]: Stark M, Fins JJ. The ethical imperative to think about thinking.
+*Cambridge Quarterly of Healthcare Ethics* 2014.
+
+[^stano]: Stanovich *et al.* 2012
+
+[^reducing]: Graber. Reducing diagnostic error. Acad med 2002.
+
+[^leape]: Leape Berwick Bates Jama 2002.
 
 
 
 
-
-Gordy Schiff
+Gordy Schiff MD pcp Cook county, BWH
 --------
 
 
