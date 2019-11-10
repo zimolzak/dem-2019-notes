@@ -253,3 +253,111 @@ BMJQS. 2018.
 Traber Giardina
 --------
 
+Why qualitative? Some vars can't easily be measured. To talk to people
+who are marginalized and not usually included/heard. And more reasons.
+Examples of qual study Qs. Pro: go in depth, be flexible (whole study
+doesn't have to crash because interview guide isn't working and your
+Qs don't resonate, because you can ask new questions in the interview
+setting), be exploratory, build theory. But requirements: time in the
+field, time analyzing data, be OK with no firm guidelines and
+evolving/changing field. Con: low generalizability because *you* are
+selecting your population (mention that in paper *a priori* so you
+don't get dinged), and researcher bias (ways to minimize that, but the
+way you view the world does affect your analysis).
+
+Major qual approaches: ethnography (from anthropology, immerse
+yourself and focus on culture), phenomenology (focus on experience,
+get the essence, from multiple stories), grounded theory (trying to be
+more systematic, tend to understand the proc and devel a theory about
+it, often biggish 20+ sample size), narrative (collect story, look at
+the arc of story and the characters, often small sample), case study
+(even smaller samp, like study one single hospital).
+
+Applied qual research: is what I (Traber) do now. There is a research
+question but no hypoth. Select an approp method. Do analysis. Applied
+methods include: content analysis, framework analysis, constant
+comparative method, thematic analysis.
+
+In an example[^focused], dx requires dialogue, needed data often
+absent, and distractions and time pressure are frequent. Observation
+has advantages: can see stuff that might not be brought to an
+interview situation. Con: can rely on memory, so take field notes
+then, or very shortly after.
+
+Interviews can be: unstruct (conversational, often used in grounded
+theory, you probe but no list of Qs), semi-struct (you have a list of
+Qs but...), and structured (same Qs for every last person, kind of
+like a survey, avoid missing data). Example of interview leaning
+toward unstruct[^uns]. Or semi struct, if it didn't come up we
+specifically ask[^semi]. An interview that went wrong[^wrong]. Very short
+answers, because portal was not meaningful, lots of back and forth.
+That can happen no matter how flexible you try to be. Interview can be
+f2f or phone. Interviews can get at sensitive data, which a survey may
+not get (with dx error, they tend to start surface level but in
+interview they open up as rapport gets built). Obviously in interview
+you can clarify stuff you don't understand. No option in a survey to
+dig deeper into any response. You have to practice and pilot your
+interviews. Analysis can take *so* long. And yes, the flexibility: if
+your guide changes as your process goes on, then it gets hard to
+analyze the fact that you didn't ask questions of the early subjects.
+
+Focus groups. Look at interaction or consensus. More cost effective. 3
+groups of 8 is a lot of people (even though 6 may be better group
+size). Big talkers can be a thing. Group dynamics can be a thing
+(putting docs, nurses, admins in a room can mean some defer).
+
+Existing documents[^exi]. Like what are poeple saying in the comments
+sections. Find the right rsch Q approp for the data source. Or when
+people answer the open ended Qs in a survey[^exi-survey].
+
+Several ways to to sampling for qualitative research. We've done
+maximal variation (get diff types of folks). THere's also deviant
+sampling (get outliers). Snowball (if the population is hard to
+access, get one person, get them to introduce you to more).
+Convenience (the least rigorous, least likely to yield useful info,
+not recommended, usually want to make a conscious choice).
+
+How to analyze. Read texts, get *meaning units*, put those in
+*categories*, and then group those into *themes.* Finally look for
+overarching *findings* or theory. We use ATLAS-TI software: highligh
+texts, assign codes, pull quotes. Sometimes iteratively pull similar
+codes and recode. Who does it: 1 reviewer, or 2? Expectation is
+becoming 2. Kappa doesn't make so much sense for unstructured; rather
+use consensus.
+
+Assessing qualitative research. There are some checklists. But can be
+hard with word limits. Your methods should be very clear. Especially
+if you aren't using one of the "traditions," be very transparent.
+Acknowledge your perspective (that wasn't there in the past) but now
+reviewers want to know the researcher's background, to understdand
+potential biases.
+
+Addressing Bias: peer debriefing can help. Several ways to increase
+rigor.
+
+Mixed methods: Start with qual to understand, then quant to measure in
+focused way. Start with survey and it doesn't make sense so do
+interview. Main ways: convergent parallel design[^cpd] (like patient cohort
+plus doc interview), explanatory sequential, exploratory sequential,
+embedded. Con: *lots* of resources, complicated analysis because you
+have to think of both study designs, hard to squeeze into one
+paper[^best-prac].
+
+[^best-prac]: Best practices for mixed methods research in the health
+sciences.
+
+[^cpd]: Danforth KN. Follow up of abnormal estimated gfr. AJKD.
+
+[^exi]: Learnign from patients' experiences related to diagnostic errors
+is essential.
+
+[^exi-survey]: Online public reactions to frequency of diagnostic errors
+
+[^wrong]: Giardina. Patient perceptions of receiving test results.
+
+[^semi]: Singh. Exploring situational awareness.
+
+[^uns]: Giardina. THe patient portal and abnormal test results. Patient
+Experience Journal.
+
+[^focused]: Chopra V. Focused ethnography of diagnosis. J hosp Med 2018.
