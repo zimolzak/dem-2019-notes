@@ -199,6 +199,44 @@ CA, and look back to see what was the timing of the prior testing.
 3 weeks good, or is 6 weeks? What does "standard of care" really mean,
 and how do we find positive and negative outliers.
 
+**AI and predictive modeling.** Ridiculous amount of
+terminology[^bigdata]. Example of radiology, EEG for depression,
+pathology, ophto, derm. But complex data[^sepsis]. Where is AI going?
+More images, more complex data (home monitoring, EHR, phone).
+Replicating our current care, if our current care is biased, does not
+help anything. It's also not AI versus people, it's people with vs.
+people without AI[^derm]. Even if we do direct to consumer, what does
+patient do with "It is 7.5% chance of melanoma." But also EHR is
+inaccurate, and in a biased way, not random, so therefore just piling
+up more data does not help.
+
+**Feedback on outcomes.** There are barriers[^feedback]. Fear of
+impact on colleague or yourself. Don't want to jeopardize relationship
+betw pt and oncologist. Want them to bring it up, knowing that it will
+be treated fairly by your organization. Individual feedback. We don't
+know outcome because of these handoffs. Open loop[^openloop] learning.
+If you don't know the outcome, you tend to think 'Oh I did OK.' People
+want fb but don't look. UCSF did deliberate follow up[^delib]. Can
+also make day team message the night team. Can also do auto outcomes
+reports (readmit, transfer to surg, ICU, code, death), not to say that
+any of those are errors. Also triggers can prompt reviews in real
+time. Also diagnostic dashboards. Next direction: Does feedback impact
+outcomes? What channel do you use for feedback?
+
+[^delib]: Narayana. J Grad Med Educ 2017
+
+[^openloop]: Croskerry P. Acad emerg med 2000.
+
+[^feedback]: Lipitz-Snyderman A. BMJQS 2017; 26:892.
+
+[^derm]: Zabem GA. How should Artificial Intelligence Screen for Skin
+cancer. JAMA Dermatol 2018.
+
+[^sepsis]: Nemati, ... Buchman TG. An interpretable Machine Learning Model.
+Crit Care Med 2018.
+
+[^bigdata]: sastat.org.za/sasa2017/big-data-dictionary
+
 [^breast-dx]: Using administrative data to estimate time to breast cancer
 diagnosis. Eur J Cancer Care.
 
