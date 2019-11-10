@@ -508,11 +508,110 @@ better. Sez it's not equipoise.
 Gordy Schiff MD pcp Cook county, BWH
 --------
 
+Straw man of how to improve diagnosis: more lectures, more
+subspecialization, more exposure to great diagnosticians, more
+objective evidence, redundancy and cross checking, more check boxes in
+your EMR, talking to patients rather than computer, parse cognitive
+from system errors (sez you can't really do that), accountability
+(metrics, get rid of bad docs).
+
+Really: acknowledge the potential for errors. Think less aobut
+brilliance. "Genius diagnosticians make great stories but they don't
+make great healthcare."[^berwick]
+
+Dx process failure $\cap$ delayed or missed dx $\cap$ adverse
+outcomes. Linda McDougal, you never had cancer, we mixed up your
+specimen. That's all 3 venn elements[^venn]. DEER taxonomy: Diagnosis
+Error Evaluation and Research. Access to care, history, physical,
+tests. About 20 checkboxes in total. Only 50% of ordered cscopes get
+done. Scheduling, patient changes mind, order prep, doing prep, having
+a ride home. Overlap: system probs contribute to cognitive[^overlap]. Can't
+take a travel hx if you're time-pressured, etc. Do we need more
+metrics[^elusive]? What we need is less fear or blame, so people can
+question a diagnosis.
+
+Situational awareness. HROs tend to have people worry/anticipate about
+errors. "Preoccupation with possibility of failure.... Rehearse familiar
+scenarios of failure"[^reason].
+
+**Pitfalls.** Mistaking one for the other: think MI or dissection is a
+kidney stone, thinking bipolar is depression. Ignoring test limits
+(false negative mammogram). Atypical presenta. Tying a new sx into a
+chronic dx. Overlooking drug or environment cause. 4 Rs: rare, rapid,
+remediable, really bad. 4 Cs (serious if miss): continuing exposure,
+contagious, chronic progressive, confusing. Closed loop vs open
+loop[^openloop-schiff]. Overconfident vs overwhelmed. Robocall[^robo] shows
+that some still had sx after going home, and of those, only a minority
+came back to see a doc. EHR prevent errors. CYA = a canvas for your
+assessment (write out your ddx, likelihoods, etiology, urgency, etc).
+Thinking out loud. Contingencies should be in there.
+
+[^robo]: Berner ES. Exploration of an automated approach.
+
+[^openloop-schiff]: Schiff. *A J Med* 2008
+
+[^reason]: Reason. *Human Error.*
+
+[^elusive]: Schiff GD. The Elusive and illusive quest for diagnostic
+safety metrics.
+
+[^overlap]: Gupta et al. *Diagnosis* 2018.
+
+[^venn]: Schiff. advances in patient safety. AHRQ 2005. Schiff and Leape,
+*Acad Med* 2012.
+
+[^berwick]: Don Berwick qtd. in Boston Globe, 2002-07-14
 
 
 
 
-
-Ashley Meyer
+Ashley Meyer: HIT and (how it affects) Diagnosis
 --------
 
+Focus especially on EHR. Help or a hindrance. "Unaided clinicians
+often make diagnostic errors.... HIT... potential to
+enable..."[^potential]
+
+In 2008 it was majority paper[^adoption]. Other ways to reduce dx
+error[^can-electronic]. But problems especially: templates (constrains
+thinking), alters communication (less f2f), alert fatigue, other
+effects on cognition. More probs but not covered in depth: copy paste,
+info overload, burnout, altered workflow.
+
+**Templated notes**[^ebola]. Dallas, Texas. Nurse was using a template to
+encourage flu shots. The additional stuff in that template turned out
+to be useful. Blame went to the EHR itself. Templates make less face
+to face, more assuming it will be read.
+
+**Altered relationship**[^derogate]. Patients lose trust if it's use a
+computer, versus consult with colleague. Or in another example, auto
+release of test result, maybe without interp[^auto-release]. Abnormal
+number but doctors do not leave comments about what to do, what that
+means, whether it's a problem.
+
+**Alert fatigue.** Which to turn on and turn off.
+
+General effects on cognition[^altering]. EHR improves ease of
+accessing (no chasing paper), but also accessing is burdensome.
+Likewise, situational awareness worse vs better.
+
+
+
+
+
+[^altering]: Holden RJ. 2009. Cognitive performance-altering effects of
+electronic. *Cogn Tch Work* 13:11.
+
+[^auto-release]: Giardina. Releasing test results directly.
+
+[^derogate]: Shaffer VA. Why do patients derogate physicians who use a
+computer-based. *Med Decis Making*
+
+[^ebola]: Upadhyay DK. Ebola US patient zero. *Diagnosis* 2016.
+
+[^can-electronic]: Schiff GD. Can electronic clinical documentation.
+*Nejm* 2010.
+
+[^adoption]: Henry J. Adoption of electronic health record systems.
+
+[^potential]: El Kareh *et al.* Use of health information technology.
