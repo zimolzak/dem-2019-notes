@@ -39,14 +39,105 @@ the same, but the endings are different. People rate the process as
 bad when the ending is bad. Also they don't agree hardly at all on the
 cause (like representativeness, premature closure, etc.) of the error.
 
+Availability bias study (recent or memorable)[^Schmidt2014]. Go read
+these Wikipedia articles about Q fever or Legionnaire's disease. Then
+later in the day sneak up and have them read a case. 55% correct if
+exposed to wiki vs. 70% if not. Argued: this shows the bias exists,
+but not how often it happens (or how often it helps for that matter).
+
+Eye tracking. Kind of underused method. Also it's low intervention, doesn't
+bother the subject. Eyelink1000 device. Chest xrays. Intervention is with the
+patient description. So like have "cough" versus "fall" attached to a
+clavicle fx xray. If you didn't see it in 2 seconds, you generally
+didn't see it[^zwaanprep].
+
+Further advice: not too many experimental conditions, beware
+confounding, make the setup very standardized like written
+instructions so the experimenter doesn't give subtle hints,
+preregister the study (hypotheses and exclusion), publish negative
+results if you can.
+
+[^zwaanprep]: Zwaan *et al.*, manuscript in prep.
+
 [^graber2012]: Graber, 2012, *BMJ QS.*
 
 [^zwaan2017]: Zwaan. Is bias in the Eye of the beholder? *BMJ Q S*
 2017, 26:104.
 
+[^Schmidt2014]: Schmidt *et al.* 2014
+
+
+
 
 Hardeep Singh
 --------
+
+Conceptual models all wrong, some are more useful. What's been useful
+to us? **Missed opportunities** [^singh-jc]. Sociotechnical[^socio]:
+need to account for all 8 dimensions: content, hwsw, ui, org policy,
+workflow and comm, personnel, meas and mon, external rules and regs. A
+lot of time they forget rules/reg. Third, Safer Dx framework breaks
+down the dx proc into 5 dimensions: encounter, test perf and interp,
+consult, folow up and track, and finally patient at the
+center[^safer]. NAM has a conceptual model too of course, the blue
+loop and red dot figure.
+
+missed harm result
+------ ---- ------
++      +
++      -
+-      +
+-      -
+
+Walk thru types of data/methods. Mark Graber in *AJM* wrote about
+overconf. That inspired Hardeep's study of Clinician cognition[^confid].
+Difficult vs. easy vignetttes. Hard should go with less confidence,
+and asking for more help. But it didn't bear out. Didn't tell them
+there was such a thing as easy/hard. Not a prevalence study (reporter
+made a big deal of only 60% of the easy cases were answered
+correctly). 3 experts were the source of the easy/hard rating.
+
+Opportunistic data[^gandhi][^serious][^root]. Advantages.
+Disadvantages: hard to go from Root Cause Analy recs. Paper "problem
+with RCA" in BMJQS. A lot of them say "do more training, do more
+policy." Disadvantage: *can't generalize to frequency or population
+level.* Malpractice claims don't correlate great with error. Because
+not all claims are based on error.
+
+Large (claims and/or EMR) datasets[^hyper][^stroke-ed]. Gotta validate
+thru some other mechanism or else it's just hypoth generating. "Data
+suggests...." Need to f/u with record review study.
+
+Info from clinicians[^olafor][^dx-peds].
+
+[^olafor]: Olafor. Using voluntary reports. BMJ Emerg Med Journal. 33(4)
+
+[^dx-peds]: Singh. Errors of diagnosis in pediatric.
+
+[^hyper]: Alore EA. Diagnosis and management of primary hyperparathyroidism.
+JAMA internal med.
+
+[^stroke-ed]: Newman-Toker. Missed diagnosis of stroke.
+
+[^gandhi]: Gandhi T "Missed and Delayed" Annals IM
+
+[^serious]: Newman-Toker. "Serious Misdiagnosis-related harms"
+
+[^root]: Giardina. "Root Cause Analysis reports Help Identify Common factors in
+delayed diagnosis." 
+
+
+[^confid]: Meyer *et al.* Physicians' Diagnostic Accuracy, Confidence,
+and Resource Requests: A Vignette Study. *JAMA intern med* 2013
+
+[^safer]: Singh Sittig. BMJ Q S 2015.
+
+[^socio]: Sittig, Singh. *Qual Safe Health Care* 2010
+
+[^singh-jc]: Singh, *Jt comm j qual patient saf* 2015.
+
+
+
 
 Traber Giardina
 --------
