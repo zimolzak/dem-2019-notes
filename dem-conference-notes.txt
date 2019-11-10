@@ -1,12 +1,28 @@
 Science of Diagnostic Error
 =========
 
-- Hardeep Singh
-- Traber Giardina
-- Rob El Kerah
 
 Laura Zwaan
 --------
 
 Definitions: many. Four major. Graber 2005, Singh 2014, Schiff 2005,
 NAM 2015. Sez NAM def includes the communication and is nonspecific.
+Many approaches[^graber2012] including autopsy, survey, standard pts
+(time consuming), second review, dx testing audits, malpractice
+claims, case reviews, voluntary reports. They differ in whether they
+can study incidences, and study etiology.
+
+[^graber2012]: Graber, 2012, *BMJ QS.*
+
+
+
+
+Hardeep Singh
+--------
+
+Traber Giardina
+--------
+
+Rob El Kerah
+--------
+
