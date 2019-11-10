@@ -1,4 +1,4 @@
-Science of Diagnostic Error
+Science of Diagnostic Error (Nov 10)
 =========
 
 
@@ -9,12 +9,40 @@ Definitions: many. Four major. Graber 2005, Singh 2014, Schiff 2005,
 NAM 2015. Sez NAM def includes the communication and is nonspecific.
 Many approaches[^graber2012] including autopsy, survey, standard pts
 (time consuming), second review, dx testing audits, malpractice
-claims, case reviews, voluntary reports. They differ in whether they
-can study incidences, and study etiology.
+claims, case reviews, voluntary reports, experimental studies,
+qualitative research. They differ in whether they can study
+incidences, and study etiology. (Standardized pts and voluntary
+reports can do both, notably.) Only 0.5% of incident reports were
+diagnostic error reports, though.
+
+In detail, contrast chart reviews and experimental studies. Chart has
+high external, low internal validity. Experimental is opposite.
+Example of retro chart review: 21/100 Netherlands hospitals
+participated.
+
+Type  EV     IV
+----  -----  -----
+Chart high   low
+Exper low    high
+
+Tips for record review studies: inter-rater reliability was low. More
+people didn't help the IRR. Because dx errors are rare, do power
+calculations. If the record review questionnaire is too long or
+unclear, or if incomplete training of reviewers, those are all
+pitfalls. Important to predefine hypotheses and exclusion criteria (so
+describe coincidental findings as exploratory.
+
+Hindsight bias is hard to avoid, and it comes up when you look *only*
+at the error cases[^zwaan2017]. Experimental study that replicated how
+reviewers look at cases. Constructed so the dx process described was
+the same, but the endings are different. People rate the process as
+bad when the ending is bad. Also they don't agree hardly at all on the
+cause (like representativeness, premature closure, etc.) of the error.
 
 [^graber2012]: Graber, 2012, *BMJ QS.*
 
-
+[^zwaan2017]: Zwaan. Is bias in the Eye of the beholder? *BMJ Q S*
+2017, 26:104.
 
 
 Hardeep Singh
