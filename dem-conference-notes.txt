@@ -343,6 +343,9 @@ embedded. Con: *lots* of resources, complicated analysis because you
 have to think of both study designs, hard to squeeze into one
 paper[^best-prac].
 
+QA: "is there anything else?" Use silence. Reflection and journaling
+practice.
+
 [^best-prac]: Best practices for mixed methods research in the health
 sciences.
 
@@ -361,3 +364,18 @@ is essential.
 Experience Journal.
 
 [^focused]: Chopra V. Focused ethnography of diagnosis. J hosp Med 2018.
+
+
+
+
+Global QA
+--------
+
+Is dx error rate going down, last few years? In Netherlands, yes, a
+bit. But yeah it fluctuates, and it's subjective, maybe reviewers got
+scared. And that was dx error as proportion of all medical errors. Dx
+error highly prevalent in the *preventable harm* category. But not
+easy to measure rate really. "Elephant of patient safety" paper.
+
+Don't get discouraged about one or even 5 rejections. Try Jane
+Biosemantics.
