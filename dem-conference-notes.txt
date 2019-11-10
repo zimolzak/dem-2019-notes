@@ -108,7 +108,48 @@ Large (claims and/or EMR) datasets[^hyper][^stroke-ed]. Gotta validate
 thru some other mechanism or else it's just hypoth generating. "Data
 suggests...." Need to f/u with record review study.
 
-Info from clinicians[^olafor][^dx-peds].
+Info from clinicians[^olafor]. They are forthcoming and will say they
+made a dx error[^dx-peds].
+
+Record reviews in the *non-selective* fashion[^bergl]. Consecutive
+chart reviews give better idea of frequency. But it's a lot of work.
+Can also do in *high risk cohort* like cancer[^endosc][^lung]. Good
+agreement $\kappa = 0.69$. Missed opportunity in like 30%. Same in
+peds cancer.[^bhise]
+
+How do you review records in the first place? We have Revised Safer Dx
+Instrument[^rsdi]. Another instrument Safer Dx Process Breakdown
+Supplement helps you analyze the record further: what type of problem
+was it?
+
+Emerging methods. Also prospective surveillance. See Murphy's papers
+in *Chest,* and mammo, and *BMJQS* "Electronic health
+record-based...." Return visit triggers have low ish PPV, but these
+have better.
+
+Bench to bookshelf to bedside. Make your work visible. Prepare first
+and talk to them. You and Twitter are not the only way to get it out
+there. Public and policymakers have to know about your stuff.
+Secondly, have clinical/operational partners. **Write conclusions and
+abstract with these organizations in mind:** WHO, NAM, CDC, HHS, AMA,
+AHRQ. **Who is the audience apart from other researchers?** Then get
+the paper out to practicing docs, if you think the audience is
+practicing docs. Incentivize the researcher to make work more
+relevant, so like if WHO or NQF is impacted and/or cites your work,
+etc. Furthermore, people will ask you for resources, so make one, with
+hyperlinks[^compendium].
+
+[^compendium]: A Compendium of Best Practices for IMproving Test result follow-up.
+
+[^rsdi]: Singh. Recommendations for using the Revised.... *Diagnosis* 2019.
+
+[^bhise]: Bhise. An electronic trigger based on care escalation. BMJQS 2018.
+
+[^lung]: Characteristics and predictors. J clin onc.
+
+[^endosc]: Singh. Missed opportunities to initiate endoscopic. Am J GAstro 2009
+
+[^bergl]: Bergl PA. Frequency, risk factors, causes, and consequences.
 
 [^olafor]: Olafor. Using voluntary reports. BMJ Emerg Med Journal. 33(4)
 
@@ -126,7 +167,6 @@ JAMA internal med.
 [^root]: Giardina. "Root Cause Analysis reports Help Identify Common factors in
 delayed diagnosis." 
 
-
 [^confid]: Meyer *et al.* Physicians' Diagnostic Accuracy, Confidence,
 and Resource Requests: A Vignette Study. *JAMA intern med* 2013
 
@@ -139,9 +179,39 @@ and Resource Requests: A Vignette Study. *JAMA intern med* 2013
 
 
 
-Traber Giardina
+Rob El Kareh: Large datasets
 --------
 
-Rob El Kerah
+Existing databases. NSQIP, SEER are clinical. HCUP, Medicare are
+claims. Then there are some linked ones: Seer-Medicare,
+OptumLabs[^exist]. Drawbacks: nonfatal things may not be in there,
+especially subjective pt outcomes.
+
+What types of study: SPADE[^spade]. First visit with sx and benign dx,
+followed by 2nd visit with dangerous dx. Look forward and look
+back. There is a simpler look-forward, so like if there's a high
+calcium, what percent got a PTH test. Further, of those with
+hyperpara, what percent got treatment surgery[^hyper]. Same: of those
+with high Cr, who got repeat test, made a dx of CKD, and/or got renal
+consult[^creat]. Assess dx proc[^breast-dx]. Find those with breast
+CA, and look back to see what was the timing of the prior testing.
+"Natural history of diagnosis" is not known for a lot of scenarios. Is
+3 weeks good, or is 6 weeks? What does "standard of care" really mean,
+and how do we find positive and negative outliers.
+
+[^breast-dx]: Using administrative data to estimate time to breast cancer
+diagnosis. Eur J Cancer Care.
+
+[^creat]: Kaiser Permanente Creatinine Safety Program. AJM.
+
+[^spade]: Liberman. Symptom Disease Pair Analysis of Diagnostic error.
+BMJQS. 2018.
+
+[^exist]: Murphy. Working with Existing Dabases. *Clin Colon Rectal Surg*
+2013.
+
+
+
+Traber Giardina
 --------
 
