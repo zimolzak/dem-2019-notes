@@ -686,3 +686,28 @@ Cognitive biases? (talks yesterday)
 Physical Exam - Carla Pugh (Nov 11)
 =========
 
+ER "He's had RLQ pain, 3 CTs in 4 weeks, we can't figure out what's
+going on with him." He looks more annoyed by the process than in page.
+Healthy 40 ish guy. LLQ fine. RLQ also no tenderness to light touch,
+light palp, deep palp. But below inguinal, that is where the pain is.
+No appy, not even hernia: groin pull. 85% of failure to dx cases have
+inadequate assessment (which includes phys exam as part of).
+
+How did we get here? Two factors. **Tech trust** (patients trust the CT
+more, residents trust the CT more).
+
+*(CT bad. Ultrasound good? Imaging good. Imaging bad. AI good. AI bad.
+Sparkly looking android. AI good. AI bad. Time helps. Tech helps. EMR
+bad.)*
+
+Force over time graph of thyroid exam, one sensor per finger. Senssors
+can go on mannequin parts too. Assertion: "Thirty times a second is
+faster than a human can do it." Physical exam registry. Pelvic.
+Someone said "why do you have a sensor on the os; no one touches it."
+Lost in translation: either things that teacher doesn't say, or we're
+not good at observing. (7 N = 0.71 kgf = 1.6 lbf)
+
+DRE. Students were really fast, and applied less pressure, spent most
+of time in the center. Students say "we see what the clinicians do,"
+but they see the back of the hand, so they do pronate/supinate not fan
+the finger side to side.
