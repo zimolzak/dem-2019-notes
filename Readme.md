@@ -665,13 +665,24 @@ parallels the experience of consuming health advice.)*
 I"m going to get out the tea and crumpets, crank up the Chopin... and
 I'm going to admit the patient to medicine for an inpatient workup.
 
+Q: Anything we can do to get more comfortable with uncertainty? A:
+Great art and great literature deals well with uncertainty. A good
+poem does that: living in an uncertainty moment, enjoying that moment.
+Reading good literature exercises parts of your brain that you don't
+usually. Deals in metaphor, and patients deal in metaphor too.
+Bellevue Literary Review *q.v.*
+
+RAND study: doctor happiness correlates to LDL.
+
+**Debate of sorts:** Knowledge gaps? We Taught them wrong and
+misinformation gets propagated? (Newman-Toker) Not enough time? (Ofri)
+Cognitive biases? (talks yesterday)
+
+*(Less memorization? Vs De-skilling?)*
+
 
 
 
 Physical Exam - Carla Pugh (Nov 11)
 =========
-
-
-
-
 
