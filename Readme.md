@@ -1,6 +1,15 @@
-Science of Diagnostic Error (Nov 10)
-=========
+Diagnostic Error in Medicine Conference Notes
+========
 
+November 10 - 13, 2019. Washington, D.C.
+
+Notes by Andrew Zimolzak, MD, MMSc
+
+
+
+
+Science of Diagnostic Error Course (Nov 10)
+========
 
 Laura Zwaan
 --------
@@ -383,8 +392,8 @@ Biosemantics.
 
 
 
-Introduction to Diagnostic Error (Nov 10, 1pm)
-=========
+Introduction to Diagnostic Error Course (Nov 10, 1pm)
+========
 
 Intro to DE and SIDM. Mark Graber MD neph
 --------
@@ -620,7 +629,7 @@ computer-based. *Med Decis Making*
 
 
 Medical Error - Human Condition - Danielle Ofri (Nov 11)
-=========
+========
 
 Rx pad "Rule out AI, Rule out RA," meaning adrenal insufficiency, by
 the way. Plus "regular" visit stuff. Time to think. There is no
@@ -684,7 +693,7 @@ Cognitive biases? (talks yesterday)
 
 
 Physical Exam - Carla Pugh (Nov 11)
-=========
+========
 
 Technology Enabled Clinical Improvement Center (TECI).
 
