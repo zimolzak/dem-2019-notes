@@ -686,6 +686,8 @@ Cognitive biases? (talks yesterday)
 Physical Exam - Carla Pugh (Nov 11)
 =========
 
+Technology Enabled Clinical Improvement Center (TECI).
+
 ER "He's had RLQ pain, 3 CTs in 4 weeks, we can't figure out what's
 going on with him." He looks more annoyed by the process than in page.
 Healthy 40 ish guy. LLQ fine. RLQ also no tenderness to light touch,
@@ -711,3 +713,24 @@ DRE. Students were really fast, and applied less pressure, spent most
 of time in the center. Students say "we see what the clinicians do,"
 but they see the back of the hand, so they do pronate/supinate not fan
 the finger side to side.
+
+
+breast exam. starts out linear where more force is needed[^sensor],
+but beyond a certain point it doesn't help. Low force tends to be
+ineffective. Also piano fingers is 4x less likely than the circular
+rubbing. Vertical movement, they are about half and half of skilled
+and unskilled. There is the search mode and assessment mode. What
+about rectangular vs circular search (circumference), vs radial. The
+students look at faculty and they choose a pattern, based on probably
+not lots of factors.
+
+Things that humans do subconsciously when touching an object.
+"Exploratory maneuvers." Texture, hardness, temp, wt, volume, global
+shape, exact shape.
+
+"I'm not trying to kill the art. I just want the art to be digital."
+
+"By the time we leave the room, everything we said and did should be
+in the computer."
+
+[^sensor]: Sensor technology in assessments of clinical skill. *nejm*
