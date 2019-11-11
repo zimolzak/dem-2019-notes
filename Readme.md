@@ -615,3 +615,63 @@ computer-based. *Med Decis Making*
 [^adoption]: Henry J. Adoption of electronic health record systems.
 
 [^potential]: El Kareh *et al.* Use of health information technology.
+
+
+
+
+Medical Error - Human Condition - Danielle Ofri (Nov 11)
+=========
+
+Rx pad "Rule out AI, Rule out RA," meaning adrenal insufficiency, by
+the way. Plus "regular" visit stuff. Time to think. There is no
+"later." Clinical decision making here would not work: refer to
+endocrine, felt bad. Inpatient it's relatively easier, with a big
+crew, and everyone knows stakes are higher, but most medicine is
+outpatient. Anything that requires thinking, I'm sunk. There is no CPT
+code for contemplation.
+
+Example. Bilat tingling, more likely atypical carpal tunnel than
+something like MS. Trial of OTC splints. Better in 2 weeks is good
+enough for primary care. Second opinion from cardiology, ordered
+electrodiagnostic, plus coronary workup and periph vascular workup.
+EMG NCS negative. But splints helped. Both docs here trying to avoid
+diagnostic error, taking different approaches.
+
+AI and the EMR don't have to commit. We have to commit: some
+preliminary diagnosis. It's a tall order, and an incredibly stressful
+one. Is the explanation for fatigue something straightforward, or is
+it something horrible.
+
+People don't just make errors because they're stupid. They also make
+errors because they're smart. We have a need for shortcuts. Focus on
+error mitigation: rapid recognition. F# on a cello: you have to
+listen. Q: How do you play in tune? Yo-Yo Ma: I don't. I hear the
+mistakes faster and I fix them. Communication causes error, but
+solution goes like telling people "Communicate better!" Rather, make
+it about asthma with simulated patient, and slip in stuff about
+communication, include real-world distractions. Likewise never label
+your thing "Fixing diagnostic error." Make your thing about
+schizophrenia, or adrenal insufficiency instead.
+
+Missed intracranial bleed. Read "radiology fine," didn't look at
+images. Someone else caught it. Told no one. Took years to talk in
+public about it. Self doubt, and no idea how many errors made
+downstream, that week. Simulation can get emotions going.
+
+*(My aside. Humorous exaggerations, never reuse password and never
+write down, bad powerpoints. Note that changing advice about passwords
+parallels the experience of consuming health advice.)*
+
+I"m going to get out the tea and crumpets, crank up the Chopin... and
+I'm going to admit the patient to medicine for an inpatient workup.
+
+
+
+
+Physical Exam - Carla Pugh (Nov 11)
+=========
+
+
+
+
+
