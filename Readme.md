@@ -259,6 +259,7 @@ BMJQS. 2018.
 
 
 
+
 Traber Giardina
 --------
 
@@ -604,10 +605,6 @@ General effects on cognition[^altering]. EHR improves ease of
 accessing (no chasing paper), but also accessing is burdensome.
 Likewise, situational awareness worse vs better.
 
-
-
-
-
 [^altering]: Holden RJ. 2009. Cognitive performance-altering effects of
 electronic. *Cogn Tch Work* 13:11.
 
@@ -723,8 +720,7 @@ of time in the center. Students say "we see what the clinicians do,"
 but they see the back of the hand, so they do pronate/supinate not fan
 the finger side to side.
 
-
-breast exam. starts out linear where more force is needed[^sensor],
+Breast exam. starts out linear where more force is needed[^sensor],
 but beyond a certain point it doesn't help. Low force tends to be
 ineffective. Also piano fingers is 4x less likely than the circular
 rubbing. Vertical movement, they are about half and half of skilled
@@ -743,3 +739,29 @@ shape, exact shape.
 in the computer."
 
 [^sensor]: Sensor technology in assessments of clinical skill. *nejm*
+
+
+
+
+Diagnose the Diagnosis - Jason Waechter MD, U Calgary
+========
+
+teachingmedicine.com
+
+Dx errors 74k deaths per year. Commonly it's too narrow of dx focus,
+then inadequate test, misinterp of tests, and it goes on. Source:
+Coverys claims. H&P, ordering tests, interpreting tests are big
+sources. Cogn errors are a big part[^cogn-prevalent]. Overlap with
+system. Rare 3.4% knowledge being faulty.
+
+*Working through case online. Twenty-four year old woman with chest
+pain. Awakened from sleep, on OCPs, sharp, left side, smoker,
+apprehensive, worse with deep breathing, worse with motion, no cough
+or sputum or fever. I didn't do ECG or pregnancy test, but should
+have. Dissection on ddx. D-dimer or not?*
+
+*Audience comments.*
+
+
+
+[^cogn-prevalent]: *Arch int med* 2005; 165:1493
