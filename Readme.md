@@ -916,13 +916,30 @@ false. Conclusion: yeah, it makes new things feasible.
 Gordon Schiff, MD, BWH
 --------
 
-tk
+Noteworthy failures in HIT: electronic problem list, clinical notes
+(veracity, readability, production efficiency), decision support (90%
+override rate)[^bwh-epic]. Switch from LMR to epic, many more alerts,
+but same number of accepted alerts, then disabled "tier 3" alerts in
+epic: fewer, but still lots. Oracle approach to clinical decision
+making, like Watson. Problems: black box, privacy, ethical,
+distraction.
+
+Stabilize / control = quant data. Improve = quant + narrative.
+Innovate = like all narrative[^notepad].
+
+[^notepad]: Don Berwick, sketching a graph on an IHI notepad.
+
+[^bwh-epic]: Wright A *et al.* Reduced Effectiveness of Interruptive
+Drug-Drug Interaction Alerts after Conversion to a Commercial
+Electronic Health Record. *J Gen Intern Med.* 2018 Nov;33(11):1868-1876.
 
 
 
 
 Christina Silcox, PhD, Duke
 --------
+
+"Software as a Medical Device"
 
 
 
