@@ -886,7 +886,7 @@ and open APIs.
 AI in Diagnosis (Nov 12)
 ========
 
-Michael Howell, MD MPH, Google Health
+Michael Howell MD MPH. Google Health
 --------
 
 Successes in image recognition, translation. Identify western tussock
@@ -913,7 +913,7 @@ false. Conclusion: yeah, it makes new things feasible.
 
 
 
-Gordon Schiff, MD, BWH
+Gordon Schiff MD. BWH
 --------
 
 Noteworthy failures in HIT: electronic problem list, clinical notes
@@ -936,7 +936,7 @@ Electronic Health Record. *J Gen Intern Med.* 2018 Nov;33(11):1868-1876.
 
 
 
-Christina Silcox, PhD, Duke
+Christina Silcox PhD. Duke
 --------
 
 "Software as a Medical Device"
@@ -984,9 +984,16 @@ doing, go back to corporate, and make it better.
 Concurrent: Federal Research Initiatives (Nov 12)
 ========
 
-Capitol A
+RADM Jeff Brady MD MPH. USPHS+AHRQ
+--------
 
-David Atkins, MD MPH, VA
+NIH: cures. AHRQ: care, care delivery. NIH has some care delivery
+parts, likewise FDA and CDC.
+
+
+
+
+David Atkins MD MPH. VA
 --------
 
 tk
@@ -994,7 +1001,7 @@ tk
 
 
 
-Jeff Brady, MD, MPH, AHRQ
+Jade Perdue MPA. CMS
 --------
 
 tk
@@ -1002,15 +1009,7 @@ tk
 
 
 
-Jade Perdue, MPA, CMS
---------
-
-tk
-
-
-
-
-Gurvaneet Randhawa, MD, MPH, NCI
+Gurvaneet Randhawa MD MPH. NCI
 --------
 
 tk
@@ -1023,7 +1022,7 @@ Process Measures (Nov 12, 1pm)
 
 Regency A
 
-Shantanu Agrawal, MD MPhil, NQF
+Shantanu Agrawal MD MPhil. NQF
 --------
 
 tk
@@ -1031,7 +1030,7 @@ tk
 
 
 
-David Baker, MD MPH FACP, Joint Commission
+David Baker MD MPH FACP. Joint Commission
 --------
 
 tk
@@ -1039,7 +1038,7 @@ tk
 
 
 
-Mary Barton, MD MPP
+Mary Barton MD MPP
 --------
 
 tk
