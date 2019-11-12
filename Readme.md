@@ -967,17 +967,79 @@ What's ready for prime time now, or into the hands of patients?
 
 I don't hear anything about prevention?
 
+How will Silicon Valley rebuild trust, given today's *WSJ* where
+Google got data, Ascension, project Nightingale. Governed by BAA.
+There is an idea of what to remove to deidentify.
+
+We're constantly disappointed (by hype that doesn't pan out);
+computers don't work very well. Should we keep doing individual
+workarounds to lousy software, because that's the only solution I see?
+A: We should learn from every workaround. Should be able to get help
+in Epic, not for them to say just do this, but to watch what I'm
+doing, go back to corporate, and make it better.
+
+
+
+
+Concurrent: Federal Research Initiatives (Nov 12)
+========
+
+Capitol A
+
+David Atkins, MD MPH, VA
+--------
+
+tk
+
+
+
+
+Jeff Brady, MD, MPH, AHRQ
+--------
+
+tk
+
+
+
+
+Jade Perdue, MPA, CMS
+--------
+
+tk
+
+
+
+
+Gurvaneet Randhawa, MD, MPH, NCI
+--------
+
+tk
+
 
 
 
 Process Measures (Nov 12, 1pm)
 ========
 
+Regency A
+
 Shantanu Agrawal, MD MPhil, NQF
 --------
+
+tk
+
+
+
 
 David Baker, MD MPH FACP, Joint Commission
 --------
 
+tk
+
+
+
+
 Mary Barton, MD MPP
 --------
+
+tk
