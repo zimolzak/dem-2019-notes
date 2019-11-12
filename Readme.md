@@ -988,12 +988,27 @@ RADM Jeff Brady MD MPH. USPHS+AHRQ
 --------
 
 NIH: cures. AHRQ: care, care delivery. NIH has some care delivery
-parts, likewise FDA and CDC.
+parts, likewise FDA and CDC. Progress from 2000 *To Err Is Human*, to
+furhter recognition[^whatarewe], to AHRQ grants dedicated to
+diagnostic error in 2015, and National Academies 2015 report.
+
+RFA diagnostic safety. RFA-HS-19-003. Incidence of error, understand
+contributing factors, association with outcomes. Awarded to Auerbach,
+Singh, 2 others. Also "Patient Safety Learning Laboratories." Medstar
+is one awarded. Congress directed IAWG Inter Agency Work Group to
+convene, make sure diagnostic safety research working the same
+direction across agencies.
+
+*Making Health Care Safer* reports: July 2001, Mar 2013, and third one
+pending. Boils down hundreds of papers. Lastly, ambulatory is
+critically important.
+
+[^whatarewe]: Graber. What are we doing about diagnostic error? 2002
 
 
 
 
-David Atkins MD MPH. VA
+Jade Perdue MPA. CMS
 --------
 
 tk
@@ -1001,7 +1016,7 @@ tk
 
 
 
-Jade Perdue MPA. CMS
+David Atkins MD MPH. VA
 --------
 
 tk
