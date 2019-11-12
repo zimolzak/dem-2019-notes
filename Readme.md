@@ -829,3 +829,76 @@ year** in USA.
 Mark McClellan, MD PhD, Duke
 --------
 
+Pathways to address dx errors: Increase funding (currently $7 million
+per year). Increase measure development. *Few measures focus on
+diagnostic accuracy or errors. Measures can be used to track and
+identify errors, inform quality improvement activities, and
+incorporate into payment models. Have proven difficult to identify
+directly.*
+
+Third, payment reform. Not gonna get rid of FFS right away.
+Incremental help by paying more for cognitive services like complex
+diagnostics. Also improve the (currently limited) payment for improved
+diagnostic technologies that can improve accuracy. Alternative payment
+models are a critical step, after all.
+
+**Where are we in payment reform?** Trad ffs $\to$ p4p $\to$ limited
+population-based $\to$ complete populated based. We are in category 2
+(basically ffs linked to qual and value), and early cat 3 (alt pmt
+model but still built on ffs architecture). Cat 3 and 4 are linked to
+people not services. Level of an episode of care or to whole
+person[^lan].
+
+[^lan]: HCP LAN Framework (Health Care Payment Learning & Action
+Network). Alternative payment model framework. 2017 MITRE.
+
+
+
+
+Michelle Schreiber, MD (of CMS)
+--------
+
+20 years later, *To Err Is Human* is a leadership failure. We're still
+waiting for a safer system. Not a failure because "not enough quality
+measures." We need the *right ones.* And timely ones, not ones that
+give you data 3 years out. Instantaneous. Relevant to patients. Less
+burdensome to providers. Future of measures? I don't know. It's an
+interesting time.
+
+CMS committed to
+
+- meaningful measures initiative
+
+- burden reduction
+
+- transparency
+
+
+
+
+AI in Diagnosis (Nov 12)
+========
+
+Michael Howell, MD MPH, Google Health
+--------
+
+Gordon Schiff, MD, BWH
+--------
+
+Christina Silcox, PhD, Duke
+--------
+
+
+
+
+Process Measures (Nov 12, 1pm)
+========
+
+Shantanu Agrawal, MD MPhil, NQF
+--------
+
+David Baker, MD MPH FACP, Joint Commission
+--------
+
+Mary Barton, MD MPP
+--------
