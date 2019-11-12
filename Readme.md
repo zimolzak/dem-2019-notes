@@ -889,7 +889,26 @@ AI in Diagnosis (Nov 12)
 Michael Howell, MD MPH, Google Health
 --------
 
+Successes in image recognition, translation. Identify western tussock
+moth. Google translate with camera, real time. *Makes new things
+feasible*.
 
+DL $\subset$ ML $\subset$ AI. You don't need ML to make things
+*appear* smart. Today it's easier to program a computer to learn than
+it is to hard-code it to be smart. Email spam: no longer hard code a
+bunch of if/then rules. General AI (doesn't exist) vs. specific AI. **AI
+is math, not magic.** Nothing ('cept maybe blockchain) is trendier than
+AI. Bring your native skepticism to the table. We publish in *JAMA*
+and *Nature Medicine* not because it's fast but because it's important
+to get it right. "AI will figure out the best possible treatment for
+every patient," well, bring your skepticism.
+
+Need a bunch more ophthalmologists to do screening properly. Chance of
+getting the same grade from diff ophthalmologists is 60%. That's
+*messiness of the real world.* Whole separate paper about how to you
+deal with that. Lung cancer screening prevents death, but only 4.4% of
+eligibles get the screen, and in the NLST still 96% of positive s were
+false. Conclusion: yeah, it makes new things feasible.
 
 
 
@@ -897,7 +916,7 @@ Michael Howell, MD MPH, Google Health
 Gordon Schiff, MD, BWH
 --------
 
-
+tk
 
 
 
