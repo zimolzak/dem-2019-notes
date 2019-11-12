@@ -941,7 +941,31 @@ Christina Silcox, PhD, Duke
 
 "Software as a Medical Device"
 
+FDA draft guidance in Sept 2019. 21st Centure Cures Act removed FDA
+authoridy over *certain* CDSS. If not analyzing an image/signal, *and*
+if professional can independently review the basis, then FDA no
+authority / clearance / approval.
 
+IMDRF framework: is the purpose of this CDSS to *inform* (just list
+options), *drive*, or *diagnose/treat* (trigger an immediate action).
+
+For the *inform* type of CDSS, and when user is healthcare
+professional: If cannot independently review, it depends on
+seriousness of the condition (nonserious means FDA gets discretion,
+otherwise "oversight focus").
+
+Patient as end user is higher risk. And "drive" and "diagnose" are
+naturally higher risk.
+
+
+
+
+Q and A
+--------
+
+What's ready for prime time now, or into the hands of patients?
+
+I don't hear anything about prevention?
 
 
 
