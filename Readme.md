@@ -787,4 +787,45 @@ should be moved to true positive, and that saves lives. False positive
 $\to$ true negative, on the other hand, saves money, and there are
 many more of these.
 
+EEG for HA: yes, it should be stamped out, and it's wasteful, but it's
+rare, and most isn't in the "never do this" category. less qual, more
+cost is waste, obvs bad. more Qual, more dollars = safety oriented,
+nervous nellie. Less Q less C = efficiency, crazy cowboy. But bouncing
+back and forth doesn't do anything but trading off. Holy grail is more
+Q less C. Adding the **H**ead **I**mp **N**ystag **T**est **S**kew
+test will move the ROC curve. "Doing different and better." See the
+4-quadrant figure[^quadrants].
+
+[quadrants^]: Newman-Toker 2013
+
+**Policy barriers to implementing this.** Organ system orientation of
+NIH is not great if you misdiagnose heart condition as kidney or
+something, neither NHLBI nor NIDDK cares. Second, fee for service is
+toxic to diagnosis. There's a theory that "you can do whatever tests
+you want." But really it encourages go-fast and thoughtlessness. But
+P4P assumes the dx is correct. At risk payments (DRG bundle
+capitation)....
+
+- Invest in diagnostic research
+
+- Measure diagnostic outcomes. So like SPADE[^spade2]. Lots of return
+visits for dizzy as opposed to heart.
+
+- Reorient payments. Get rid of FFS. P4P maybe but demand dx accuracy
+first, and pay more for good dx acc. For atrisk models, change to use
+symptom related groups as bundles. So like $1000 for a dizzy patient
+in ED.
+
+Total financial harms of dx error probably **exceed $100 billion per
+year** in USA.
+
+[^spade2]: Liberman BMJQS 2018
+
 [^billion]: newman-toker BMJQS 2013
+
+
+
+
+Mark McClellan, MD PhD, Duke
+--------
+
