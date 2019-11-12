@@ -1011,15 +1011,14 @@ critically important.
 Jade Perdue MPA. CMS
 --------
 
-tk
+Not a research organization but have a strong quality arm. Change
+Package model. First one: Reduce dx error via lab management
+practices.
 
-
-
-
-David Atkins MD MPH. VA
---------
-
-tk
+(Possibly this: Compass Hospital Improvement Innovation Network
+(December 2018). Reducing Diagnostic Error Related to the Laboratory
+Testing Process Change Package, V1.0. Des Moines, IA: Iowa Healthcare
+Collaborative. Accessed at ihconline.org.)
 
 
 
@@ -1027,7 +1026,79 @@ tk
 Gurvaneet Randhawa MD MPH. NCI
 --------
 
-tk
+Cancer mort variation 5 fold[^mokdad]. Variation in breast CA
+screening too. Appointment time of day has an association[^timeDay]
+with whether screening is done (colorectal too). Cognitive errors
+common[^poon]. Time spent in various ambulatory tasks[^sinsky].
+Lengths of notes[^length]. New dx of cancer over 80 days: 40 comms w/
+other docs, mostly emails, 12 w/ pt[^press] but often not documented.
+
+**What's NCI doing?** PA-17-495 multilevel intervention, follow up to
+abnormal screening tests. PA-18-493 use IT to support screening and tx of
+depression in onc practices. Also SBIR.
+
+[^press]: Press MJ.
+
+[^length]: Downing NL. Physician burnout. Annals 2018.
+
+[^sinsky]: Sinsky C et al. Allocation of physician time. Ann Intern Med
+2016. 165:753.
+
+[^poon]: Poon. Cognitive errors and logistical. JGIM 2012.
+
+[^timeDay]: Hsiang. Association of primary care clinic appointment time. JAMA
+Netw Open 2019.
+
+[^mokdad]: Mokdad AH. Trends and patterns of....
+
+
+
+
+David Atkins MD MPH. VA
+--------
+
+Learning Health System. Practice $\to$ Data $\to$ Evidence $\to$
+Practtice. Importantly: data science, and implementation science. But
+problems (pathologist example)[^pathologist]. Some Level of
+disagreement always there. Could we have caught earlier? Dx error
+research barriers: no clear def, lack of performance measures
+targeting dx error (great tool, a little too great a tool, but none in
+VA), risk of overtesting, no attention except when egregiouss.
+
+HSRD has like 10 priority domains, dx error is within "health care
+systesm, safety and quality."
+
+VA advantages: 20 years of Data, integrated care system, etc.
+
+VA research examples: missed cues using secret shoppers, variation in
+adenoma detection, auto triggers for delayed fu abnl tests, improving
+coord betw pcp and specialist.
+
+Colonoscopy quality measures QUERI, need NLP. Reducine inappropriate
+f/u recommendedtions... lung cancer... QUERI.
+
+[^pathologist]: Former VA physician charged... admid drug and
+alcohol.... *Wa Po.* Aug 20, 2019. (Robert Morris Levy, Fayetteville
+Arkansas, and in Mississpiip)
+
+Issues: more community care, new EHR, burnout and reminder fatigue,
+big data and ML. Collab with ORNL, DOE.
+
+5 targets (Singh): info gathering, test perform, f/u test, comms with
+specialists, patient adherence.
+
+
+
+
+Q and A
+--------
+
+What are opportunities for pts to apply for fund? AHRQ: usually they
+work w/ some org that has a grants office.
+
+Anything govt doing to help pts prevent dx error. AHRQ: pt and family
+engagement is a big part. AHRQ had an ad council campaign "Questions
+are the Answer."
 
 
 
