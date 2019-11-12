@@ -762,6 +762,29 @@ have. Dissection on ddx. D-dimer or not?*
 
 *Audience comments.*
 
-
-
 [^cogn-prevalent]: *Arch int med* 2005; 165:1493
+
+
+
+
+Value Equation (Nov 12)
+========
+
+Newman-Toker
+--------
+
+*(joined 08:30)*
+
+5% GDP in one study. In Schwartz *et al.* "secret shoppers," med
+record data alone underestimates the costs. CT head overuse. NHAMACS
+data, dizziness, 40% get CT, only 3% MRI. Waste of $1 billion per
+year, on this one problem alone[^billion].
+
+Equation: $V = Q / C$, relating value, quality, and cost. About 5 main
+patterns of how to increase value; obvs best is increase qual *while*
+decreasing cost. "Dangerous called benign" is false negative, and
+should be moved to true positive, and that saves lives. False positive
+$\to$ true negative, on the other hand, saves money, and there are
+many more of these.
+
+[^billion]: newman-toker BMJQS 2013
