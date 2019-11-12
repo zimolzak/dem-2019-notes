@@ -865,13 +865,20 @@ give you data 3 years out. Instantaneous. Relevant to patients. Less
 burdensome to providers. Future of measures? I don't know. It's an
 interesting time.
 
-CMS committed to
+CMS committed to:
 
-- meaningful measures initiative
+- Meaningful measures initiative
 
-- burden reduction
+- Burden reduction
 
-- transparency
+- Transparency (incl CMS MyHealthEData, download claims data)
+
+- Alignment (e.g. fix measures w/ diff HTN cutoffs)
+
+- Electronic measures. Only way we'll have timely feedback. FHIR based
+and open APIs.
+
+- Patient voice. PROs are kind of clunky right now.
 
 
 
@@ -882,11 +889,23 @@ AI in Diagnosis (Nov 12)
 Michael Howell, MD MPH, Google Health
 --------
 
+
+
+
+
+
 Gordon Schiff, MD, BWH
 --------
 
+
+
+
+
+
 Christina Silcox, PhD, Duke
 --------
+
+
 
 
 
