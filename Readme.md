@@ -1106,25 +1106,48 @@ are the Answer."
 Process Measures (Nov 12, 1pm)
 ========
 
-Regency A
-
-Shantanu Agrawal MD MPhil. NQF
---------
-
-tk
-
-
-
+Kathryn McDonald, Stanford. Donabedian structure $\to$ process $\to$
+outcome. Don't debate which type versus another type; rather forcus
+first on intended use.
 
 David Baker MD MPH FACP. Joint Commission
 --------
 
-tk
+There are measures. There are accountability criteria for our
+measuress. Lots of challenges in knowing whether a follow up occurred.
+Incidenttaloma somewhat common example. Burden of measurement: if
+you're measuring something, you better be confident that it's related
+to outtcomes. If you think process measures are hard, outcome measures
+are *really* hard. Big focus on accountability, public reporting,
+etc., but you can use measures for QI too. Compare your rates to your
+past rates, even if you can't compare hospital *A* to hospital *B.* 
 
 
 
 
-Mary Barton MD MPP
+Mary Barton MD MPP. NCQA + HEDIS
 --------
 
-tk
+Any standardized field in an EHR is only as good as the workflow that
+populates it. If I want to stop diagnosing *C. diff,* I'll stop doing
+the test. Or, can incentivize alternative ways to document things
+(errors) that will not really be captured by whatever measure. Some
+outcomes are too rare to measure for accountability purposes (wrong
+site surgery). But PROs are common enough: ubiquitous.
+
+
+
+
+Shantanu Agrawal MD MPhil. NQF
+--------
+
+
+
+Q and A
+--------
+
+Pros and cons of measuring dx error vs dx performance? Don't rely on
+people to check a box that says they made an error.
+
+Started public reporting of outliers on c-sections. Took 4 years to
+get there.
