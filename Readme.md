@@ -1252,3 +1252,23 @@ providers say that it improves thruput, find assessment helps, very
 satisfied, improves qual of care. They want it after 5pm and on
 weekends too. Barriers: scale it (only one tech, one institution),
 billing, funding.
+
+
+
+
+New Rules of HIT (Nov 13)
+========
+
+Helen Burstin MD MPH MACP. Council of Medical Specialty Societies
+--------
+
+
+
+Don Rucker MD. NCHIT
+--------
+
+
+
+Hardeep Singh
+--------
+
