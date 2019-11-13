@@ -1259,16 +1259,52 @@ billing, funding.
 New Rules of HIT (Nov 13)
 ========
 
-Helen Burstin MD MPH MACP. Council of Medical Specialty Societies
---------
+Tom Lee PhD: moderator. Don Rucker MD. NCHIT. Helen Burstin MD MPH
+MACP. Council of Medical Specialty Societies. Hardeep Singh.
+
+Rucker: Standard APIs into EHRs = more interop, patients hook apps up
+to EHRs. Burstin: make clinical notes interpretable again. Singh:
+collecting data but not nec using it for improvement. Also data need
+to be correct.
+
+OAUTH 2. Have APIs as opposed to one-off queries.
+
+What should be on every vendor's roadmap?
+
+Rucker: Reuse code elements and UI elements that aren't built for
+people who are moving and getting interrupted. They're built for
+people at a desk in a cubicle. UI libraries designed for healthcare is
+a request!
+
+OurNotes at maybe BIDMC, patients co creating notes. ONC partner with
+PROMIS?
+
+Gordy: Screenshots? Billing dx, vs indication, vs problem list. Pull
+the andon type of system for UI improvement. "TwinList" for med
+reconciliation.
+
+Singh: **sociotechnical**
 
 
 
-Don Rucker MD. NCHIT
---------
+
+Poster and Abstract Awards (Nov 13)
+========
+
+11:45
 
 
 
-Hardeep Singh
---------
 
+Summary Remarks
+========
+
+12pm
+
+
+
+
+Diagnostic Quality Hill Day Training
+========
+
+12:15 Columbia ABC
