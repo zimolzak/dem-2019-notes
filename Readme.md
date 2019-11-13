@@ -1174,3 +1174,81 @@ already high. Other elements lactate, bcx, fluids. Risk adjusted Cost
 per case decreased; length of stay somewhat decreased. Interactive
 patient simulations and feedback can **measure and improve** sepsis
 diagnosis and treatment.
+
+Laura Zwaan. Priorities for dx safety research.
+--------
+
+CHNRI systematic method of prioritization. List of proposed research
+questions, and indicate useful, answerable, effectiveness, potential
+for impl, etc. 20 high priorities ultimately. Top 5.
+
+1. Evidence base of dx decision support.
+
+2. Optimize EHR and portals to manage abnormal tests (incidentals, or
+TPAD).
+
+3. Strategies to include nurses and others to ID and prevent harmful
+dx situations.
+
+4. How to get knowledge about test selection and interpretation to the
+front line?
+
+5. How do info displays and HCI impact the dx process?
+
+Divvy Upadhyay.
+--------
+
+"All should be borne in mind and marked on medical maps aby a danger
+signal of some kind: 'In this vicinity look out for hidden rocks,' or
+'Dangerous turn here, run slow.' "[^rocks]
+
+[^rocks]: Cabot RC. Diagnostic pitfalls identified during a study of
+three thousand autopsies. *JAMA* 1912; 59:2295.
+
+Susrutha Kotwal MD, JHU. Patient sim to improve dx performance
+--------
+
+A trial called "AVERT." Videos of stuff like eye movement
+abnormalities. Focused on dizziness. Their study: residents are
+control, interns are intervention. interns get SIDD. More than doubled
+compared to their senior counterparts. Costs improve too (so it's not
+teaching them defensive medicine). *Perfect* practice makes perfect.
+
+Hardeep Singh.
+--------
+
+Safer Dx Trigger Tools Framework. E-triggers. Seven steps of the
+framework. Review of triggered charts. Prim care 690k visits, 130 trig
+positive, 102 selected, 16 missed opportunities, PPV 16%. ED 47k
+visits, 354 trig pos, 105 selected, 25 with real errors, 24% ppv.
+Types of conditions missed PCP: heart failure, SBO, seizure. ER: fewer
+stand out. Things like foot cellultits, viral mening, Lyme, syncope,
+seizure, panic attack, near syncope. Where were the process
+breakdowns? 50% pt-provider encounter in ED, and even more in PCP. If
+you mark on the SaferDx a 5, 6, 7, that's really more of a screening
+review. Give to 2nd reviewer. UCSF was getting $\kappa = 0.8$. We
+haven't done kappas here yet. Question about 14 day vs. 72 hour.
+
+Yvonne Covin MD, UT San Antonio. Communication failures.
+--------
+
+Themes: dx team relationships need improvement. "When you start
+speaking Spanish, they look at you like [yuck]." Work system needs
+improvement too. Patient sticking with one doctor. Because saw another
+once who said "you're out of my league."
+
+Dan Gold. Tele dizzy consult service
+--------
+
+Record the eye movements and review remotely. Portable VOG, video
+oculography. Don't send home with peripheral vertigo dx without
+consult. Camera to make sure tech is doing it right too. Have done n =
+237 consults. 708 of 8725 specific vestibular diagnosis (by coding).
+Tele dizy makes the dx 57.8% of the time. Common tele dizzy dx BPPV,
+vestibular migraine, stroke. With tele dizzy CT rec 2%, *cf.* base
+rate of 40%. We want to be called if you're suspicious enough to think
+head imaging. Not just cost shifing CTs into MRIs. N = 17 survey of ED
+providers say that it improves thruput, find assessment helps, very
+satisfied, improves qual of care. They want it after 5pm and on
+weekends too. Barriers: scale it (only one tech, one institution),
+billing, funding.
