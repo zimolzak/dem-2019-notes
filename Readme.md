@@ -1151,3 +1151,26 @@ people to check a box that says they made an error.
 
 Started public reporting of outliers on c-sections. Took 4 years to
 get there.
+
+
+
+
+Best Oral Abstracts (Nov 13)
+========
+
+Trever Burgon PhD. Sepsis simulated patients.
+--------
+
+They used SIRS. So does CMS. Hospital compare judges on the sepsis
+bundle. Low corr between mortality and spending. And bundle adherence
+rate is 51% (need it w/i 3 hours of presentation). "Clinical
+performance and value vignettes." 4 hosp systems. What % recognized
+and documented sepsis dx? 53, 47, 75, 47. What % documented severity?
+Also low ish and variable. Odds of correct care *when* sepsis
+correctly dxd. 3.8 odds ration for the all-sepsis bundle. Serial
+measurement and feedback: a little more recognition, notably more
+severity documented. This was a study of hospitalists. Abx rates were
+already high. Other elements lactate, bcx, fluids. Risk adjusted Cost
+per case decreased; length of stay somewhat decreased. Interactive
+patient simulations and feedback can **measure and improve** sepsis
+diagnosis and treatment.
