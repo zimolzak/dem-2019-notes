@@ -1291,15 +1291,17 @@ Singh: **sociotechnical**
 Poster and Abstract Awards (Nov 13)
 ========
 
-11:45
+163 presented abstracts.
 
+1. Poster scientific. Susrutha Kotwal. CRANAPL
 
+2. Poster practice improvement. Rob El-Kareh. Learning list.
 
+3. Poster education. Thila Wijesekera. Family Feud.
 
-Summary Remarks
-========
+4. Poster vignette. David Sterken. Mediastinal.
 
-12pm
+5. Overall oral. Yvonne Covin. Communication failure latino.
 
 
 
